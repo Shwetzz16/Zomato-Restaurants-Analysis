@@ -30,4 +30,4 @@ https://www.kaggle.com/datasets
 
 ## ▶️ How to Run
 pip install -r requirements.txt
-jupyter notebook Untitled21.ipynb
+jupyter notebook Zomato Restaurant Analysis.ipynb
