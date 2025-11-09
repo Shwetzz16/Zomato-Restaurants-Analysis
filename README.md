@@ -26,7 +26,7 @@ The goal of this project is to analyze restaurant ratings, cuisine popularity, a
 
 ## 📎 Dataset Source
 Zomato Bangalore Restaurant Dataset  
-https://www.kaggle.com/datasets
+(https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ## ▶️ How to Run
 pip install -r requirements.txt
